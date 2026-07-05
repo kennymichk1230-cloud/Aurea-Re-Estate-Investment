@@ -1,0 +1,6 @@
+{
+  "name": "Aurea",
+  "description": "Premium fractional real-estate, agricultural contract investment, and automated group savings portal with an organic, natural-toned light interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
